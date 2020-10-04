@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5c270e0-c21a-4a5f-8954-d1f317fe50d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Liquid File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iEYHXWf3Eyqe9TyEvs0R6JBoOs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5c270e0-c21a-4a5f-8954-d1f317fe50d7" name="Default Changelist" comment="" />
+      <created>1601474134199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601474134199</updated>
+      <workItem from="1601474136219" duration="12674000" />
+      <workItem from="1601791429395" duration="6779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="75" key="#Plugins" timestamp="1601793375350">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="640" y="75" key="#Plugins/0.23.1440.809@0.23.1440.809" timestamp="1601793375350" />
+    <state x="408" y="170" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601791264899">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="408" y="170" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.809@0.23.1440.809" timestamp="1601791264899" />
+    <state x="229" y="66" key="SettingsEditor" timestamp="1601543381413">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="229" y="66" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1601543381413" />
+    <state x="582" y="54" width="670" height="676" key="search.everywhere.popup" timestamp="1601543377570">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="582" y="54" width="670" height="676" key="search.everywhere.popup/0.23.1440.809@0.23.1440.809" timestamp="1601543377570" />
+  </component>
+</project>
